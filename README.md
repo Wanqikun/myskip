@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# myskip
-=======
-# myskip
->>>>>>> d276f0a914fdf6b167b6e7f34dbd5c07d02cab03
+About
+A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据
